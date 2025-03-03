@@ -1,7 +1,7 @@
 # Phase-field model for mechanical fracture
 
-An open-source implementation of a phase-field model for brittle fracture using a recently developed finite-element toolbox, Gridap in Julia, is provided here.
-This work exploits the advantages of both the phase-field model and Gridap toolbox for simulating fracture in brittle materials. On one hand, the use of the phase-field model, 
+An open-source implementation of a phase-field model for brittle fracture using a recently developed finite-element toolbox, Gridap in Julia, is provided. This work 
+exploits the advantages of both the phase-field model and Gridap toolbox for simulating fracture in brittle materials. On one hand, the use of the phase-field model, 
 which is a continuum approach and uses a diffuse representation of sharp cracks, enables the proposed implementation to overcome such well-known drawbacks of the discrete approach 
 for predicting complex crack paths as the need for re-meshing, enrichment of finite-element shape functions, and an explicit tracking of the crack surfaces. On the other hand,
 the use of Gridap makes the proposed implementation very compact and user-friendly that requires low memory usage, and provides a high degree of flexibility to the users in defining
