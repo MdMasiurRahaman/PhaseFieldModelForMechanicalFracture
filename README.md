@@ -11,6 +11,8 @@ can be used to simulate fracture in brittle materials.
 
 ### See the details in the article: 
 
+https://journals.sagepub.com/doi/full/10.1177/10812865211071088
+
 @article{rahaman2022open,
   title={An open-source implementation of a phase-field model for brittle fracture using Gridap in Julia},
   author={Rahaman, Mohammad Masiur},
