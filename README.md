@@ -9,9 +9,11 @@ weak forms of partial differential equations. Tests on a single-edge notched pla
 three-point bending and a notched beam with three holes under asymmetric three-point bending are considered to demonstrate how the proposed Gridap-based phase-field Julia code 
 can be used to simulate fracture in brittle materials.
 
-### See the details in the article: 
+# See the details using the link given below: 
 
 https://journals.sagepub.com/doi/full/10.1177/10812865211071088
+
+# Cite this article: 
 
 @article{rahaman2022open,
   title={An open-source implementation of a phase-field model for brittle fracture using Gridap in Julia},
